@@ -1,0 +1,31 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+/.env
+/src/.env
+# Output of build process
+/build
+
+# Editor-specific files
+.vscode
+.idea
+
+# Logs
+*.log
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# npm package files
+package-lock.json
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
